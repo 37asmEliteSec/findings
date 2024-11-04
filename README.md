@@ -1,1 +1,1 @@
-# findings
+# finding
